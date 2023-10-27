@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Singhsawan/PM-Shortner-Bot",
-    "repository": "https://github.com/Singhsawan/PM-Shortner-Bot",
+    "website": "https://github.com/rarakukka/PremiumAutofilterBot/tree/main",
+    "repository": "https://github.com/rarakukka/PremiumAutofilterBot/tree/main",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
