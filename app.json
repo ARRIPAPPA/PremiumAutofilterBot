@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/rarakukka/PremiumAutofilterBot/tree/main",
-    "repository": "https://github.com/rarakukka/PremiumAutofilterBot/tree/main",
+    "website": "https://github.com/ARRIPAPPA/PremiumAutofilterBot",
+    "repository": "https://github.com/ARRIPAPPA/PremiumAutofilterBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
